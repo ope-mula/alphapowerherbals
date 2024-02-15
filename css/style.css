@@ -298,6 +298,8 @@ video {
   display: block;
   margin: 0 auto;
   margin-bottom: 25px;
+  width: 50%;
+  border-radius: 50%;
 }
 
 .box { 
